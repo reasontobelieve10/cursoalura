@@ -1,1 +1,1 @@
-Cursos de Formação da Alura para os PRCs
+Cursos de Formação da Alura para os PECs
